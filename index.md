@@ -1,6 +1,6 @@
 ## Caso e-commerce:
 
-![Image](https://github.com/devmadruga/power_bi/blob/main/caso_loja/bi_loja_todos_continentes.pdf)
+![Image](https://github.com/devmadruga/power_bi/blob/main/caso_loja/bi_loja_todos_continentes.jpg)
 
 
 ## Caso pesquisa de satisfação de um Call Center:
