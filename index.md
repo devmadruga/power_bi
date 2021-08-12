@@ -1,3 +1,16 @@
+## Caso e-commerce:
+
+
+## Caso e-commerce:
+
+
+
+## Caso pesquisa de satisfação de um Call Center:
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/devmadruga/power_bi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
