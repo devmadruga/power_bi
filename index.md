@@ -1,6 +1,6 @@
 ## Caso pesquisa de satisfação de um Call Center:
 
-**SE VOCÊ DESEJA TER ACESSO AOS ARQUIVOS DE DADOS E PBIX, VOCÊ OS ENCONTRA AQUI:** [.xlxs](https://github.com/devmadruga/power_bi/blob/main/caso_loja/bd_loja.xlsx) e [.pbix](https://github.com/devmadruga/power_bi/blob/main/caso_loja/bi_loja.pbix). 
+**SE VOCÊ DESEJA TER ACESSO AOS ARQUIVOS DE DADOS E PBIX, VOCÊ OS ENCONTRA AQUI:** [.xlxs](https://github.com/devmadruga/power_bi/blob/main/caso_call_center/db_call_center.xlsx) e [.pbix](https://github.com/devmadruga/power_bi/blob/main/caso_call_center/bi_call_center.pbix). 
 
 > Apresentando resultado para todas as cidades participantes:
 
@@ -15,6 +15,8 @@
 ![Image](bi_call_center_todas_cidade_segundo_semestre.jpg)
 
 ## Caso e-commerce:
+
+**SE VOCÊ DESEJA TER ACESSO AOS ARQUIVOS DE DADOS E PBIX, VOCÊ OS ENCONTRA AQUI:** [.xlxs](https://github.com/devmadruga/power_bi/blob/main/caso_loja/bd_loja.xlsx) e [.pbix](https://github.com/devmadruga/power_bi/blob/main/caso_loja/bi_loja.pbix). 
 
 > Todos os continentes:
 
