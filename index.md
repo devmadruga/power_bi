@@ -1,8 +1,6 @@
 ## Caso e-commerce:
 
-
-## Caso e-commerce:
-
+![Image](https://github.com/devmadruga/power_bi/tree/main/caso_loja)
 
 
 ## Caso pesquisa de satisfação de um Call Center:
