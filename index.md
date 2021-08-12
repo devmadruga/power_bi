@@ -1,12 +1,23 @@
 ## Caso e-commerce:
 
-![Image](https://github.com/devmadruga/power_bi/blob/main/caso_loja/bi_loja_todos_continentes.jpg)
+> Todos os continentes:
+
+![Image](bi_loja_todos_continentes.jpg)
+
+> Filtrando os resultados para Ásia:
+
+![Image](bi_loja_asia.jpg)
+
+> Filtrando os resultados para a Europa:
+
+![Image](bi_loja_europa.jpg)
+
+> Filtrando os resultados para a América do Norte:
+
+![Image](bi_loja_america_norte.jpg)
 
 
 ## Caso pesquisa de satisfação de um Call Center:
-
-
-
 
 
 ## Welcome to GitHub Pages
