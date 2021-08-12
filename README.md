@@ -2,7 +2,7 @@
 
 Aqui você encontra alguns relatórios produzidos por mim utilizando o Microsoft Power BI.
 
-#### Caso e-commerce:
+>> Caso e-commerce:
 
 * Todos os arquivos (inclusive o xlsx com os dados e o pbix completo) podem ser vistos [NESTE](https://github.com/devmadruga/power_bi/tree/main/caso_loja) repositório.
 
@@ -15,7 +15,7 @@ Aqui você encontra alguns relatórios produzidos por mim utilizando o Microsoft
 * Relatório layout final somente com América do Norte [AQUI](https://github.com/devmadruga/power_bi/blob/main/caso_loja/bi_loja_america_norte.pdf).
 
 
-#### Caso pesquisa de satisfação de um Call Center:
+>> Caso pesquisa de satisfação de um Call Center:
 
 * Todos os arquivos (inclusive o xlsx com os dados e o pbix completo) podem ser vistos [NESTE](https://github.com/devmadruga/power_bi/tree/main/caso_call_center) repositório.
 
